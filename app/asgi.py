@@ -1,5 +1,5 @@
 """
-ASGI config for app project.
+ASGI config for studio_reservation project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
