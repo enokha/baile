@@ -36,9 +36,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',
+    'rest_framework.authtoken',
     'studio_reservation.reservation',
-    'django.contrib.auth',
-    'django.contrib.contenttypes',
 ]
 
 MIDDLEWARE = [
