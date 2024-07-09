@@ -1,4 +1,3 @@
-Certainly! Below is a formatted README in Markdown, which you can directly copy and paste into your GitHub repository's [README.md](http://README.md) file:
 
 ```markdown
 
@@ -6,20 +5,20 @@ Certainly! Below is a formatted README in Markdown, which you can directly copy 
 
 This project is a Django-based system that allows users to create accounts, authenticate, add studio details, and make reservations. It utilizes Docker to ensure easy setup and consistency across different environments.
 
-## Features
+### Features
 
 - **User Management**: Create and manage user accounts.
 - **Authentication**: Obtain authentication tokens for API access.
 - **Studio Management**: Add and manage studio details.
 - **Reservations**: Users can make reservations for studios.
 
-## Prerequisites
+### Prerequisites
 
 Before you begin, ensure you have Docker and Docker Compose installed on your machine:
 - [Get Docker](https://docs.docker.com/get-docker/)
 - [Get Docker Compose](https://docs.docker.com/compose/install/)
 
-## Setup and Installation
+### Setup and Installation
 
 1. **Clone the Repository**
    ```bash
