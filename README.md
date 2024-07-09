@@ -1,32 +1,35 @@
-
-```markdown
-
-# Django Studio Reservation System
+Django Studio Reservation System
+================================
 
 This project is a Django-based system that allows users to create accounts, authenticate, add studio details, and make reservations. It utilizes Docker to ensure easy setup and consistency across different environments.
 
-### Features
+Features
+--------
 
-- **User Management**: Create and manage user accounts.
-- **Authentication**: Obtain authentication tokens for API access.
-- **Studio Management**: Add and manage studio details.
-- **Reservations**: Users can make reservations for studios.
+*   **User Management**: Create and manage user accounts.
+*   **Authentication**: Obtain authentication tokens for API access.
+*   **Studio Management**: Add and manage studio details.
+*   **Reservations**: Users can make reservations for studios.
 
-### Prerequisites
+Prerequisites
+-------------
 
 Before you begin, ensure you have Docker and Docker Compose installed on your machine:
-- [Get Docker](https://docs.docker.com/get-docker/)
-- [Get Docker Compose](https://docs.docker.com/compose/install/)
+--------------------------------------------------------------------------------------
 
-### Setup and Installation
+*   [Get Docker](https://docs.docker.com/get-docker/)
+*   [Get Docker Compose](https://docs.docker.com/compose/install/)
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://your-repository-url.git
-   cd your-project-directory
+Setup and Installation
+----------------------
 
-```
-
+1.  **Clone the Repository**
+    
+    ```bash
+    git clone https://your-repository-url.git
+    cd your-project-directory
+    ```
+    
 2.  **Build the Docker Containers**
     
     ```bash
@@ -150,8 +153,3 @@ Further Help
 ------------
 
 For more information on Docker, visit the [Docker documentation](https://docs.docker.com/). For Django-related queries, refer to the [Django documentation](https://docs.djangoproject.com/en/3.1/).
-
-```
-
-This Markdown format is suitable for a GitHub README file, providing clear sections and code blocks for easy reading and understanding. Adjust the repository URL and any specific instructions as necessary for your project.
-```
